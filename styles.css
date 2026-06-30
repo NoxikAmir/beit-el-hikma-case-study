@@ -317,6 +317,10 @@ button, input { font: inherit; }
 h2.titleh2 {
     color: black !important;
 }
+
+.h2.titleh2 {
+    color: black;
+}
 .section-head { max-width: 790px; margin-bottom: 42px; }
 .section-head.center { text-align: center; margin-inline: auto; }
 .kicker { color: var(--blue); margin-bottom: 10px; }
