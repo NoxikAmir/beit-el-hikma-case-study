@@ -314,7 +314,9 @@ button, input { font: inherit; }
 .hero-orb-two { width: 420px; height: 420px; background: rgba(110,72,255,.18); right: -120px; top: 60px; }
 
 @keyframes float { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-16px); } }
-
+h2.titleh2 {
+    color: black !important;
+}
 .section-head { max-width: 790px; margin-bottom: 42px; }
 .section-head.center { text-align: center; margin-inline: auto; }
 .kicker { color: var(--blue); margin-bottom: 10px; }
